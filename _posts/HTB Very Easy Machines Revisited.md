@@ -4,6 +4,7 @@ date: 2026-04-19
 categories: [HackTheBox, Progress]
 tags: [htb, beginner, ftp, smb, redis, sql-injection, telnet]
 ---
+# I'm back HTB
 
 About a year and a half ago, these machines humbled me.
 
@@ -17,11 +18,11 @@ walkthroughs, minimal friction, no asking the AI for help.
 
 ## The machines
 
-![Meow](assets/meow.png)
-![Fawn](assets/fawn.png)
-![Dancing](assets/dancing.png)
-![Redeemer](assets/redeemer.png)
-![Appointment](assets/appointment.png)
+![Meow](/assets/img/posts/19-04-2026/meow.png)
+![Fawn](/assets/img/posts/19-04-2026/fawn.png)
+![Dancing](/assets/img/posts/19-04-2026/dancing.png)
+![Redeemer](/assets/img/posts/19-04-2026/redeemer.png)
+![Appointment](/assets/img/posts/19-04-2026/appointment.png)
 
 ## What actually changed
 
